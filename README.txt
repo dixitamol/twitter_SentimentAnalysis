@@ -1,4 +1,4 @@
-R Code file for Group 4
+R Code file
 
 Subject : Marketing Analytics
 
