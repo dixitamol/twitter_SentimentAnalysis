@@ -15,10 +15,10 @@ library(openNLPmodels.en)
 
 ### twitterConnection
 
-consumer_key <- 'yBZ9gWqoSGzC7dwhTuPquPtNi'
-consumer_secret <- '1V9v6DJcauhDm32xQ4dZD6e0Y6CHVWO7SN48kO5bnmXnm6a9VC'
-access_token <- '2806191819-Ej4Kpj1evGWD4IugbG3B7acqx9xcprHS8nxfvaf'
-access_secret <- 'ikVFCYuMdj2W3d2yJOKQzMNp9FSxjXcMIB2PgfjkqP9SK'
+consumer_key <- 'yBZ***********************tNi'
+consumer_secret <- '1V9***********************9VC'
+access_token <- '280***********************vaf'
+access_secret <- 'ikV***********************9SK'
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
