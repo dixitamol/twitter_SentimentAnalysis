@@ -4,14 +4,8 @@ Sentiment Analysis of Tweets for a renowned shoe brand
 
 # Important info for using the R Code file 
 
-------------------------------------------------
-------------------------------------------------
-PLEASE ENSURE THAT THE WORKING DIRECTORY IS SET AS THIS FOLDER, AS SEVERAL FILES ARE SOURCED DURING EXECUTION.
-------------------------------------------------
-------------------------------------------------
+# PLEASE ENSURE THAT THE WORKING DIRECTORY IS SET AS THIS FOLDER, AS SEVERAL FILES ARE SOURCED DURING EXECUTION.
 ONE FILE (FOR NATURAL LANGUAGE PROCESSING) HAS TO BE DOWNLOADED AND PLACED IN THE WORKING DIRECTORY. GOOGLE DRIVE LINK: https://tinyurl.com/y29urjb7
-------------------------------------------------
-------------------------------------------------
 
 The folder contains several files, and are decribed below.
 
