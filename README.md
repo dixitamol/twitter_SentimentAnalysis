@@ -20,5 +20,5 @@ The folder contains several files, and are decribed below.
 
 => 'Raw_Data.csv' is the dataset employed for doing the Text Mining, Text Analysis and Sentiment Analysis.
 ------------------------------------------------
-----------------------GOOD DAY------------------
+-------------------GOOD DAY---------------------
 ------------------------------------------------
